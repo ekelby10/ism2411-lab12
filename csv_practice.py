@@ -1,3 +1,9 @@
+# Python and Excel can both be used to organize and clean data, but Python is better for automating tasks so you don't have to do them manually every time. 
+#Excel is easier for beginners because you can see and edit the data directly on the screen.
+
+#A store could use an append-mode log file to keep track of every sale made during the day. 
+#Append mode is useful because it adds new sales to the file without deleting the old ones, creating a complete record of transactions.
+
 import csv
 from datetime import datetime
 import os
